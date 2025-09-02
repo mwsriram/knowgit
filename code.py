@@ -1,1 +1,1 @@
-print("Hello World,My name is chitti.Storage 1terabyte.")
+print("Hello World,My name is chitti.Storage 1terabyte.I have a blue-chip")
